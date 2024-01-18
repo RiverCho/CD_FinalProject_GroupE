@@ -32,16 +32,15 @@ Infernal Affairs: IMDb reviews (all 244 from 2008 to present)and Douban comments
 ### The repository contains:
 * The DMP of the project
 
-* Research results report
+* Research report
 
 * A Jupyter notebook tutorial documenting the process of collecting and processing data
 
-* A sample of part of the reviews corpus (In consideration of copyright, only part of shuffled text samples are provided.)
+* A corpus folder which contains sample of the reviews corpus (In consideration of copyright, only part of shuffled text samples are provided.)
 
-* CSV file containing information on Hong Kong Film Award-winning movies.
+* A dataset folder which contains CSV files containing information on award-winning films
 
-## Dataset Variables
-
+## Dataset Variables of CSV file containing information on Hong Kong Film Award-winning movies.
 
 | Variable                  | Description                                           | Data Type   |
 |---------------------------|-------------------------------------------------------|-------------|
@@ -78,5 +77,6 @@ Retrieved from https://www.kaggle.com/datasets/carolzhangdc/imdb-5000-movie-data
 Voyant Tools. (2023). Voyant Tools Documentation.
 Retrieved from https://voyant-tools.org/docs/#!/guide/tools
 
+## 5.Project Website
 
-**For findings of the project, please visit our project [website] (https://filmproject.my.canva.site/cd).**
+For findings of the project, please visit our project [website] (https://filmproject.my.canva.site/cd).**
