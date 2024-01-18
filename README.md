@@ -40,7 +40,7 @@ Infernal Affairs: IMDb reviews (all 244 from 2008 to present)and Douban comments
 
 * A dataset folder which contains CSV files containing information on award-winning films
 
-## Dataset Variables of CSV file containing information on Hong Kong Film Award-winning movies.
+### Dataset Variables of CSV file containing information about Hong Kong Film Award-winning movies.
 
 | Variable                  | Description                                           | Data Type   |
 |---------------------------|-------------------------------------------------------|-------------|
@@ -60,6 +60,27 @@ Infernal Affairs: IMDb reviews (all 244 from 2008 to present)and Douban comments
 | **Plot Summary**          | A brief overview or summary of the movie's plot.      | Text        |
 | **Awards**                | Any awards or recognitions received by the movie.     | Text        |
 | **Cast and Crew**         | Information about the individuals involved in the production of the movie. | Text |
+
+### Dataset Variables of CSV file containing information about Oscar Award-winning movies.
+
+| Variable                   | Description                                           | Data Type   |
+|----------------------------|-------------------------------------------------------|-------------|
+| **film**                   | The title of the movie.                               | Text        |
+| **year_film**              | Release year of the movie.                             | Numeric     |
+| **year_ceremony**          | Year of the Oscars ceremony.                           | Numeric     |
+| **category**               | Award category.                                       | Text        |
+| **imdb_score_x**           | IMDb rating.                                          | Numeric     |
+| **num_voted_users_x**      | Number of IMDb user votes.                             | Numeric     |
+| **budget_x**               | Movie production budget.                              | Numeric     |
+| **language_x**             | Language of the movie.                                 | Text        |
+| **country_x**              | Country of production.                                 | Text        |
+| **gross_x**                | Box office gross revenue.                              | Numeric     |
+| **genres_x**               | Movie genres.                                         | Text        |
+| **num_user_for_reviews_x** | Number of user reviews.                                | Numeric     |
+| **duration_x**             | Movie duration.                                       | Numeric     |
+| **director_name**          | Director's name.                                      | Text        |
+
+
 
 * For information about Oscar-winning films and the data collection process, please refer to another group [project repository](https://github.com/BonBonTown/GroupE_T-M) of our team.
 
