@@ -61,7 +61,7 @@ Infernal Affairs: IMDb reviews (all 244 from 2008 to present)and Douban comments
 | **Awards**                | Any awards or recognitions received by the movie.     | Text        |
 | **Cast and Crew**         | Information about the individuals involved in the production of the movie. | Text |
 
-* For information about Oscar-winning films and the data collection process, please refer to another group [project repository](https://toolsandmethods.my.canva.site/) of our team.
+* For information about Oscar-winning films and the data collection process, please refer to another group [project repository](https://github.com/BonBonTown/GroupE_T-M) of our team.
 
 ## 4.References
 
