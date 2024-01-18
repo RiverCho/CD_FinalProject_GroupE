@@ -62,17 +62,21 @@ Infernal Affairs: IMDb reviews (all 244 from 2008 to present)and Douban comments
 | **Awards**                | Any awards or recognitions received by the movie.     | Text        |
 | **Cast and Crew**         | Information about the individuals involved in the production of the movie. | Text |
 
-* For information about Oscar-winning films and the data collection process, please refer to another group [project repository] (https://toolsandmethods.my.canva.site/) of our team.
+* For information about Oscar-winning films and the data collection process, please refer to another group [project repository](https://toolsandmethods.my.canva.site/) of our team.
 
 ## 4.References
 
-https://ithelp.ithome.com.tw/m/articles/10334954
+Sunteng. (August 2023). Building a Web App to Predict the Oscar Winners.
+Retrieved from https://ithelp.ithome.com.tw/m/articles/10334954
 
-https://www.kaggle.com/datasets/unanimad/the-oscar-award
+RAPHAEL FONTES. (March 2023). Kaggle Dataset: The Oscar Award.
+Retrieved from https://www.kaggle.com/datasets/unanimad/the-oscar-award
 
-https://www.kaggle.com/datasets/carolzhangdc/imdb-5000-movie-dataset
+YUEMING. (2018). Kaggle Dataset: IMDb 5000 Movie Dataset.
+Retrieved from https://www.kaggle.com/datasets/carolzhangdc/imdb-5000-movie-dataset
 
-https://voyant-tools.org/docs/#!/guide/tools
+Voyant Tools. (2023). Voyant Tools Documentation.
+Retrieved from https://voyant-tools.org/docs/#!/guide/tools
 
 
 **For findings of the project, please visit our project [website] (https://filmproject.my.canva.site/cd).**
