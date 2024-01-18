@@ -80,7 +80,7 @@ Infernal Affairs: IMDb reviews (all 244 from 2008 to present)and Douban comments
 | **duration_x**             | Movie duration.                                       | Numeric     |
 | **director_name**          | Director's name.                                      | Text        |
 
-* For information about Oscar-winning films and the data collection process, please refer to another group [project repository](https://github.com/BonBonTown/GroupE_T-M) of our team.
+* For information about Oscar-winning films and the data collection process, please refer to another group [project repository](https://github.com/RiverCho/TM_FinalProject_GroupD) of our team.
 
 ### 4.References
 
